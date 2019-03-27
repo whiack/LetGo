@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{CE9CBA68-A3F4-601E-3D61-6005CA1441DC}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/ButtonClick.cs">
+    <Files>
+      <File FileName="Assets/script/ColorChange.cs" Line="44" Column="6" />
+      <File FileName="Assets/script/ButtonClick.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/Rotate.cs" Line="1" Column="1" />
+      <File FileName="../MyDream/Assets/script/Mover.cs" Line="14" Column="18" />
+      <File FileName="Assets/LowPolyGround/Scripts/FreeCamera.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
